@@ -1,3 +1,10 @@
+rockchip-pulseaudio-config (0.3.3) jammy; urgency=medium
+
+  [ ZHANG Yuntian ]
+  * Fix release action broken due to unmatched file
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 27 Feb 2024 07:14:22 +0000
+
 rockchip-pulseaudio-config (0.3.2) jammy; urgency=medium
 
   [ ZHANG Yuntian ]
